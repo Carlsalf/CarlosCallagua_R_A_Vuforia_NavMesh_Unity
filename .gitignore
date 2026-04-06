@@ -1,0 +1,12 @@
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+UserSettings/
+*.csproj
+*.sln
+.DS_Store
+Assets/Editor/Migration/*.tgz
+Packages/*.tgz
